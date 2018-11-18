@@ -7,6 +7,6 @@ Usage
 -----
 Start the Docker containers:
 
-    docker run -p 80:80 trafex/alpine-nginx-php7
+    docker run -p 80:80 spiralout/docker-php-nginx
 
 See the PHP info on http://localhost, or the static html page on http://localhost/test.html
